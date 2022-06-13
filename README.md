@@ -23,7 +23,7 @@ During 6 months (2021.06 - 2021.12), I’m a Computer Vision and Machine Learnin
 
 📫 Working: KAIST (Seoul, Korea), Qualcomm (Seoul, Korea).
 
-🔭 My Blog: https://pointed-statistic-c3c.notion.site/Taehyeon-Kim-s-Personal-Blog-ae061cb93ff143a3b444bb5c036fb179
+🔭 My Blog: https://taehyeon.oopy.io/
 
 🌱 My CV : https://kthyeon.github.io/Taehyeon_CV.pdf
 
