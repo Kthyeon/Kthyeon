@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 [![Kthyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kthyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I’m a Ph D Candidate in Optimization and Statistical Inference Lab OSI (Advisor: Se-Young Yun, KAIST). 
+Now, I’m a Ph D Candidate in Optimization and Statistical Inference Lab OSI (Advisor: Se-Young Yun, KAIST). 
 
 During 6 months (2021.06 - 2021.12), I’m a Computer Vision and Machine Learning R&D Intern for Autonomous Drivingreporting in Qualcomm.
 
-📫 Working: KAIST (Seoul, Korea), Qualcomm (Seoul, Korea).
+📫 Working: KAIST (Seoul, Korea).
 
 🔭 My Blog: https://taehyeon.oopy.io/
 
