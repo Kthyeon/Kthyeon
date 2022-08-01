@@ -21,7 +21,7 @@ Now, I’m a Ph D Candidate in Optimization and Statistical Inference Lab OSI (A
 
 During 6 months (2021.06 - 2021.12), I’m a Computer Vision and Machine Learning R&D Intern for Autonomous Drivingreporting in Qualcomm.
 
-📫 Working: KAIST (Seoul, Korea).
+📫 Working: KAIST AI (Seoul, Korea).
 
 🔭 My Blog: https://taehyeon.oopy.io/
 
