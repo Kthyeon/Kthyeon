@@ -25,10 +25,6 @@ During 6 months (2021.06 - 2021.12), I’m a Computer Vision and Machine Learnin
 
 🔭 My Blog: https://taehyeon.oopy.io/
 
-🌱 My CV : https://kthyeon.github.io/Taehyeon_CV.pdf
-
-🌱 Portfolio : https://bit.ly/3DUvi31
-
 🤔 LinkedIn : https://www.linkedin.com/in/taehyeon-kim-6a1239207/
 
 💬 Contact : potter32@kaist.ac.kr
