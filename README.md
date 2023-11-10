@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 Now, I’m a Ph D Candidate in Optimization and Statistical Inference Lab OSI (Advisor: Se-Young Yun, KAIST). 
 
-During 6 months (2021.06 - 2021.12), I’m a Computer Vision and Machine Learning R&D Intern for Autonomous Drivingreporting in Qualcomm.
+I worked as a PhD student researcher @ Google Research, Qualcomm AI, and DynamoFL (YCW22 selected startup).
 
 📫 Working: KAIST AI (Seoul, Korea).
 
 🔭 My Blog: https://taehyeon.oopy.io/
 
-🤔 LinkedIn : https://www.linkedin.com/in/taehyeon-kim-6a1239207/
+🤔 LinkedIn: https://www.linkedin.com/in/taehyeon-kim-6a1239207/
 
-💬 Contact : potter32@kaist.ac.kr
+💬 Contact: potter32@kaist.ac.kr, kimtaehyeon610@gmail.com (permanant)
 
 I am a research scientist, and I am frequently invited to attend research seminars and ML/DL lectures.
 Feel free to contact me!
