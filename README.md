@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Kthyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kthyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Now, I’m a Ph D Candidate in Optimization and Statistical Inference Lab OSI (Advisor: Se-Young Yun, KAIST). 
+Now, I’m a Ph D Student in Optimization and Statistical Inference Lab OSI (Advisor: Se-Young Yun, KAIST). 
 
 I worked as a PhD student researcher @ Google Research, Qualcomm AI, and DynamoFL (YCW22 selected startup).
 
@@ -29,5 +29,4 @@ I worked as a PhD student researcher @ Google Research, Qualcomm AI, and DynamoF
 
 💬 Contact: potter32@kaist.ac.kr, kimtaehyeon610@gmail.com (permanant)
 
-I am a research scientist, and I am frequently invited to attend research seminars and ML/DL lectures.
-Feel free to contact me!
+I am a research scientist! Feel free to contact me!
